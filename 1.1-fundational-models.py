@@ -1,3 +1,5 @@
+# Usando api de openai
+
 from dotenv import load_dotenv
 from langchain.chat_models import init_chat_model
 from pprint import pprint
